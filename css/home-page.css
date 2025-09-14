@@ -318,13 +318,13 @@ summary::marker {
   height: 28px;
   vertical-align: middle;
   margin-right: 16px;
-  background: url("/images/icons/checkbox.svg") no-repeat center;
+  background: url("/galki/images/icons/checkbox.svg") no-repeat center;
   background-size: contain;
   transition: all 0.15s;
 }
 
 .checkbox:checked + .checkbox-text::before {
-  background: url("/images/icons/checkbox-checked.svg") no-repeat center;
+  background: url("/galki/images/icons/checkbox-checked.svg") no-repeat center;
   background-size: contain;
   transition: all 0.15s;
 }
@@ -434,14 +434,14 @@ summary::marker {
 }
 
 #game-preview-1 {
-  background: url(/images/gal/atri-my-dear-moments/ATRI-My-Dear-Moments-vertical.jpg);
+  background: url(/galki/images/gal/atri-my-dear-moments/ATRI-My-Dear-Moments-vertical.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #game-preview-2 {
-  background: url(/images/gal/un-jardin-miniature/Un-Jardin-Miniature.jpg);
+  background: url(/galki/images/gal/un-jardin-miniature/Un-Jardin-Miniature.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -656,7 +656,7 @@ summary::marker {
   height: 100%;
   width: 100%;
   border: none;
-  background: url(/images/icons/save.png);
+  background: url(/galki/images/icons/save.png);
   border-radius: 12px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -817,7 +817,7 @@ summary::marker {
   width: 80px;
   height: 16px;
   margin-left: 4px;
-  background: url(/images/icons/rating-star-5.svg);
+  background: url(/galki/images/icons/rating-star-5.svg);
   inset: 0;
   background-repeat: no-repeat;
   background-size: cover;
